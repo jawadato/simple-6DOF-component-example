@@ -1,6 +1,5 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -10,7 +9,8 @@
 		},
 		{
 			"Name": "Simple6DOFComponent",
-			"Enabled": true
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1aeb594687894593ba4ab65bb3c6666d"
 		}
 	]
 }
