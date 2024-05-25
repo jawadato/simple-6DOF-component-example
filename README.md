@@ -4,9 +4,13 @@ Example project for Simple 6DOF Component Plugin - A simplified workflow to add 
 
 ![yt_thumb](https://github.com/jawadato/simple-6DOF-component-example/assets/18325896/5b7f4da1-64cc-4ef5-9b3d-a92cc28aed70)
 
+# Discord
+
+Discord server available [here](https://discord.gg/grGwy9UM7K).
+
 # Documentation
 
-https://www.jawadato.com/simple-6dof-component
+Documentation available [here](https://www.jawadato.com/simple-6dof-component), [tutorial video](https://youtu.be/xFrSy6Naj7s) showing implementation in standard first person template found in Engine version 5.4.
 
 # Win64 Playable Build
 
