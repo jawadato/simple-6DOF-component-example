@@ -13,5 +13,5 @@ https://www.jawadato.com/simple-6dof-component
 This is an example project which demonstrates the Simple 6DOF Component Plugin. It Requires the [plugin](https://www.unrealengine.com/marketplace/en-US/product/1aeb594687894593ba4ab65bb3c6666d) to work.
 - Install the plugin to your engine.
 - Download or clone this repo then open the .uproject file.
-- If the required plugin is not installed then the editor will show warning.
-- Project works for Engine version 4.27 and above.
+- When prompted, select your desired Engine version. Project works for Engine versions 4.27 and above.
+- If the required plugin is not installed then the editor will show an warning.
