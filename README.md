@@ -8,6 +8,10 @@ Example project for Simple 6DOF Component Plugin - A simplified workflow to add 
 
 https://www.jawadato.com/simple-6dof-component
 
+# Win64 Playable Build
+
+https://jawadato.itch.io/simple-6dof-component-demo
+
 # Plugin
 
 This is an example project which demonstrates the Simple 6DOF Component Plugin. It Requires the [plugin](https://www.unrealengine.com/marketplace/en-US/product/1aeb594687894593ba4ab65bb3c6666d) to work.
