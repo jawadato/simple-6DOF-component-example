@@ -8,9 +8,13 @@ Example project for Simple 6DOF Component Plugin - A simplified workflow to add 
 
 Discord server available [here](https://discord.gg/grGwy9UM7K).
 
+# Tutorial
+
+[Tutorial video](https://youtu.be/HBu6yesm62I) showing implementation in standard first person template that comes with Engine version 5.4.
+
 # Documentation
 
-Documentation available [here](https://www.jawadato.com/simple-6dof-component), [tutorial video](https://youtu.be/xFrSy6Naj7s) showing implementation in standard first person template found in Engine version 5.4.
+Documentation available [here](https://www.jawadato.com/simple-6dof-component).
 
 # Win64 Playable Build
 
