@@ -1,6 +1,6 @@
 # Simple 6DOF Component
 
-Example project for Simple 6DOF Component Plugin - A simplified workflow to add 6DOF to an Actor, Pawn or a Character inside of Unreal Engine. Requires Simple 6DOF Component Plugin to work which can be grabbed from [here](https://www.unrealengine.com/marketplace/en-US/product/1aeb594687894593ba4ab65bb3c6666d).
+Example project for Simple 6DOF Component Plugin - A simplified workflow to add 6DOF to an Actor, Pawn or a Character inside of Unreal Engine. Requires Simple 6DOF Component Plugin to work which can be grabbed from [here](https://www.unrealengine.com/marketplace/en-US/product/1aeb594687894593ba4ab65bb3c6666d). The following [video](https://youtu.be/PoipYA_ktks) showcases the project in action.
 
 ![yt_thumb](https://github.com/jawadato/simple-6DOF-component-example/assets/18325896/5b7f4da1-64cc-4ef5-9b3d-a92cc28aed70)
 
