@@ -2,7 +2,7 @@
 
 Example project for **Simple 6DOF Component Plugin** - A simplified workflow to add 6DOF to an Actor, Pawn or a Character inside of Unreal Engine. The following [video](https://youtu.be/PoipYA_ktks) showcases the project in action.
 
-![yt_thumb](https://github.com/jawadato/simple-6DOF-component-example/assets/18325896/5b7f4da1-64cc-4ef5-9b3d-a92cc28aed70)
+![s6c_gallery](https://github.com/jawadato/simple-6DOF-component-example/assets/18325896/3453f3a9-fc9a-432f-b335-de6fffad8628)
 
 # Plugin Dependency
 
