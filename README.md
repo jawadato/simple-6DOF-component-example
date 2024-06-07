@@ -6,7 +6,7 @@ Example project for **Simple 6DOF Component Plugin** - A simplified workflow to 
 
 # Plugin Dependency
 
-This is an example project which demonstrates the **Simple 6DOF Component Plugin**. It Requires the [plugin](https://www.unrealengine.com/marketplace/en-US/product/1aeb594687894593ba4ab65bb3c6666d) to work.
+This is an example project which demonstrates the **[Simple 6DOF Component Plugin](https://www.unrealengine.com/marketplace/en-US/product/1aeb594687894593ba4ab65bb3c6666d)**. It Requires the plugin to be fully functional. The art assets and non plugin related functionalities may still prove useful to some.
 - Install the plugin to your engine.
 - Download or clone this repo then open the .uproject file.
 - When prompted, select your desired Engine version. Project works for Engine versions 4.27 and above.
